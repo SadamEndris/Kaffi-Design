@@ -1,2 +1,2 @@
-# this a project for a fasion company called kaffi design
+# this is  a project for a fasion company called kaffi design
 
