@@ -24,6 +24,14 @@ header{
 .logo-container,.nav-links,.cart {
     display: flex;
 }
+
+
+.logo1{
+    width: 50%;
+        margin-left: 10px;
+        margin-top: 10px;
+    object-fit: contain;
+}
 .logo-container{
 /* background: lightblue; */
 flex: 1;
@@ -177,6 +185,7 @@ z-index: -1;
         transform: translate(50%,5%);
     }
     .cover img {
+        margin-top: 15px;
        height: 80%; 
     }
     .small-circle,
